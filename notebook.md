@@ -16,4 +16,11 @@
 
 # Week Fri 09/07/18 - 09/13/18
 
+* 523 futuresystem account created
+* Completed ubuntu virtual box setup
+* Began the Technology summaries
+* completed first 5 lectures in "intro to big data" 
+
+# Week 09/14/18 - 09/20/18
+
 * Yet to start
