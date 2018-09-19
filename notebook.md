@@ -29,6 +29,6 @@
 * writting technology summaries
 * Completed reading scientific paper 1 and 2
 
-# Week 09/14/18 - 09/27/18
+# Week 09/21/18 - 09/27/18
 
 * Yet to start
