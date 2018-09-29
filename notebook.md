@@ -31,4 +31,10 @@
 
 # Week 09/21/18 - 09/27/18
 
+* Confirmed that all technology summarys have been claimed with the hand emoji and HID
+* completed physics lecture
+* working through technology summary
+
+# Week 09/28/18 - 10/5/18
+
 * Yet to start
