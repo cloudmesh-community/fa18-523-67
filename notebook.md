@@ -35,6 +35,11 @@
 * completed physics lecture
 * working through technology summary
 
-# Week 09/28/18 - 10/5/18
+# Week 09/28/18 - 10/4/18
+* Began writing for the papers that are due for the course
+* Identified topic for main project 
+* Began research on the topic
+
+# Week 10/5/18 - 10/11/18
 
 * Yet to start
