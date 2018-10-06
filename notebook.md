@@ -39,6 +39,7 @@
 * Began writing for the papers that are due for the course
 * Identified topic for main project 
 * Began research on the topic
+* Completed the "Intro to cloud computing" lecture
 
 # Week 10/5/18 - 10/11/18
 
