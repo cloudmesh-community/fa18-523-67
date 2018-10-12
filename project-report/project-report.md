@@ -86,17 +86,20 @@ information.
 Following methods are used for analysis to make observations
 and conclusions from data:
 
-- Logistic Regression, Multinomial Naïve Bayes and Random Forest algorithm
+- Logistic Regression, Multinomial Naïve Bayes and Random Forest algorithm:
 	These are used to predict rating based on text review. This will help
   understand and predict how well text review and ratings match.   Low accuracy means
   there is more to ratings that just text review. High accuracy means ratings
   accurately capture sentiments in text   review.
 - Count, Term Frequency Inverse Document Frequency (tfidf) vectorizer, and Linear
-  SVC. These help with understanding which words are most commonly used in reviews
+  SVC: These help with understanding which words are most commonly used in reviews
   for a restaurant and help gain insight on why certain place might be famous or
   infamous for.
-- Centrality measurements
+- Centrality measurements:
   -	Degree centrality
   -	Closeness centrality
-- Community detection
-	Both centrality measurements and community detection help finding various patterns in network. This can reveal how and if which type   restaurant tends to get higher/lower rating depending on its distance from downtown or geographical location etc. 
+- Community detection:
+  Both centrality measurements and community detection help finding various
+  patterns in network. This can reveal how and if which type restaurant tends to
+  get higher/lower rating depending on its distance from downtown or geographical
+  location etc. 
