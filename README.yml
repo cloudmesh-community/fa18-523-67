@@ -22,5 +22,5 @@ project:
 
   - title: Data analysis Of Yelp reviews
     group: fa18-523-67 and fa18-523-60
-    report: https://github.com/cloudmesh-community/fa18-523-67/blob/master/project-report/project-report.md
-    code: https://github.com/cloudmesh-community/fa18-523-67/blob/master/project-report/project_code.md
+    report url: https://github.com/cloudmesh-community/fa18-523-67/blob/master/project-report/project-report.md
+    code url: https://github.com/cloudmesh-community/fa18-523-67/blob/master/project-report/project_code.md
