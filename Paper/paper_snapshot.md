@@ -107,11 +107,10 @@ Question Answering etc.
 - Text categorization: splitting the large volume of data into several categories.
   Example spam filters.
 
-- Spam Detection: 
-> "It works using text categorization and in recent times, various
-  machine learning techniques have been applied to text categorization or 
-  Anti-Spam Filtering like Rule Learning, Naïve Bayes, Memory based Learning, 
-  Support vector, Decision Trees, Maximum Entropy Model [@fa18-523-67-NLP-Art].
+- Spam Detection: Various machine learning techniques like Rule Learning,
+  Naïve Bayes, Memory based Learning, Support vector, Decision Trees,
+  Maximum Entropy Model etc are used to detect the spams.This is very similar to 
+  text categorization [@fa18-523-67-NLP-Art].
 
 # NLP in Yelp data review
 
