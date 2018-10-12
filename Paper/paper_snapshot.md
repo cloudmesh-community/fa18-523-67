@@ -69,22 +69,22 @@ Researchers working on NLP, building tools and systems which makes NLP what it
 is today. Tools like Sentiment Analyzer, parts of speech, Emotion detection,
 Semantic Role Labelling etc made NLP a good topic for research.
 
--Sentiment Analyzer: analyses the document for positive and negative words.
-It uses the sentiment lexicon and the sentiment pattern database to analyze the
-sentiments.
+- Sentiment Analyzer: analyses the document for positive and negative words.
+  It uses the sentiment lexicon and the sentiment pattern database to analyze the
+  sentiments.
 
--Parts of speech: "Taggers for the languages like European languages, research is
-being done on making parts of speech taggers for other languages like Arabic,
-Sanskrit [@fa18-523-67-NLP-Art-1], Hindi [@fa18-523-67-NLP-Art-2] etc.
-It can efficiently tag and classify words as nouns, adjectives, verbs etc". 
+- Parts of speech: "Taggers for the languages like European languages, research is
+  being done on making parts of speech taggers for other languages like Arabic,
+  Sanskrit [@fa18-523-67-NLP-Art-1], Hindi [@fa18-523-67-NLP-Art-2] etc.
+  It can efficiently tag and classify words as nouns, adjectives, verbs etc". 
 
--Emotion Detection: This is like sentiment analysis, but it works on social media
-platforms on mixing of two languages. It categorizes statements into six groups
-based on emotions [@fa18-523-67-NLP-Art-3].
+- Emotion Detection: This is like sentiment analysis, but it works on social media
+  platforms on mixing of two languages. It categorizes statements into six groups
+  based on emotions [@fa18-523-67-NLP-Art-3].
 
--Sematic Role Labelling: "SRL works by giving a semantic role to a sentence. For
-example, in the PropBank formalism, one assigns roles to words that are arguments
-of a verb in the sentence [@fa18-523-67-NLP-Art-4]".
+- Sematic Role Labelling: "SRL works by giving a semantic role to a sentence. For
+  example, in the PropBank formalism, one assigns roles to words that are arguments
+  of a verb in the sentence [@fa18-523-67-NLP-Art-4]".
 
 # Applications of NLP
 
@@ -92,18 +92,18 @@ Natural Language Processing can be applied into various areas like Machine
 Translation, Email Spam detection, Information Extraction, Summarization,
 Question Answering etc.
 
--Machine Translation: As the name suggests Machine translation is translating a
-phrase from one language to another with the help of engines like google
-translate. The major challenge in machine translation is keeping the meaning and
-the grammatical structure of the translated language intact.
+- Machine Translation: As the name suggests Machine translation is translating a
+  phrase from one language to another with the help of engines like google
+  translate. The major challenge in machine translation is keeping the meaning and
+  the grammatical structure of the translated language intact.
 
--Text categorization: splitting the large volume of data into several categories.
-Example spam filters.
+- Text categorization: splitting the large volume of data into several categories.
+  Example spam filters.
 
--Spam Detection: "It works using text categorization and in recent times, various
-machine learning techniques have been applied to text categorization or 
-Anti-Spam Filtering like Rule Learning, Naïve Bayes, Memory based Learning, 
-Support vector, Decision Trees, Maximum Entropy Model [@fa18-523-67-NLP-Art]"
+- Spam Detection: "It works using text categorization and in recent times, various
+  machine learning techniques have been applied to text categorization or 
+  Anti-Spam Filtering like Rule Learning, Naïve Bayes, Memory based Learning, 
+  Support vector, Decision Trees, Maximum Entropy Model [@fa18-523-67-NLP-Art]"
 
 # NLP is Yelp data review
 
