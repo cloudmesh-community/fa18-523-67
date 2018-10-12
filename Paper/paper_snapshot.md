@@ -5,8 +5,8 @@ This is the snapshot of the final paper that we will be writing. The final paper
 
 ### Team Members:
 
-  -Sahithya Sridhar (fa18-523-67)
-  -Prajakta Patil (fa18-523-65)
+  - Sahithya Sridhar (fa18-523-67)
+  - Prajakta Patil (fa18-523-65)
   
 # Introduction:
 Natural language processing (NLP) forms the link between machine language (binary code) to natural languages (which we humans speak). It borrows elements from artificial intelligence, computer science and information engineering. Success of NLP is highly dependent on how one can successfully program computers, to process, analyze and interpret huge amounts of natural language data. Key challenges/opportunities in this inter-disciplinary field involves speech recognition, language interpretation and generation of natural language from a machine representation. With NLP, it is possible for computers to read text, hear speech, interpret it, measure sentiment and determine which parts are important [@fa18-523-67-www-google-2].
