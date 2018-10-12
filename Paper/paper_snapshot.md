@@ -1,12 +1,15 @@
 
 ### Paper_snaphot
 
-This is the snapshot of the final paper that we will be writing. The final paper will contain few sample codes and examples.
+This is the snapshot of the final paper that we will be writing. The final
+paper will contain few sample codes and examples.
 
-### Team Members:
+### Team Members and work breakdown:
 
-  - Sahithya Sridhar (fa18-523-67)
-  - Prajakta Patil (fa18-523-65)
+  - Sahithya Sridhar (fa18-523-67): Introduction, Natural language text processing,
+    Natural Language generation
+  - Prajakta Patil (fa18-523-65): Related Work, Applications of NLP, NLP in 
+    Yelp data review
   
 # Introduction:
 Natural language processing (NLP) forms the link between machine language 
@@ -74,17 +77,20 @@ Semantic Role Labelling etc made NLP a good topic for research.
   It uses the sentiment lexicon and the sentiment pattern database to analyze the
   sentiments.
 
-- Parts of speech: "Taggers for the languages like European languages, research is
+- Parts of speech: It can efficiently tag and classify words as nouns, adjectives,
+  verbs etc. Taggers are already present for the  European languages, research is
   being done on making parts of speech taggers for other languages like Arabic,
   Sanskrit [@fa18-523-67-NLP-Art-1], Hindi [@fa18-523-67-NLP-Art-2] etc.
-  It can efficiently tag and classify words as nouns, adjectives, verbs etc". 
+  
 
 - Emotion Detection: This is like sentiment analysis, but it works on social media
   platforms on mixing of two languages. It categorizes statements into six groups
   based on emotions [@fa18-523-67-NLP-Art-3].
 
-- Sematic Role Labelling: "SRL works by giving a semantic role to a sentence. For
-  example, in the PropBank formalism, one assigns roles to words that are arguments
+- Sematic Role Labelling: 
+
+> "SRL works by giving a semantic role to a sentence. For example, in the PropBank
+  formalism, one assigns roles to words that are arguments
   of a verb in the sentence [@fa18-523-67-NLP-Art-4]".
 
 # Applications of NLP
@@ -107,7 +113,7 @@ Question Answering etc.
   Anti-Spam Filtering like Rule Learning, Naïve Bayes, Memory based Learning, 
   Support vector, Decision Trees, Maximum Entropy Model [@fa18-523-67-NLP-Art].
 
-# NLP is Yelp data review
+# NLP in Yelp data review
 
 The first step in NLP depends on the application. Voice based systems like Google
 Assistant or Alexa translates words into text using Hidden Markov Models. 
