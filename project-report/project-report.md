@@ -1,7 +1,7 @@
 
-Data analysis Of Yelp reviews
+### Data analysis Of Yelp reviews (snapshot)
 ======
-# Work Breakdown:
+### Work Breakdown:
 
 Prajakta Patil - fa18-523-65: Introduction, Literature review, Dataset
 Sahithya Sridhar- fa18-523-67: Abstract, Data processing, Analysis methods
