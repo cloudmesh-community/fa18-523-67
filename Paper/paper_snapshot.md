@@ -89,7 +89,7 @@ Semantic Role Labelling etc made NLP a good topic for research.
 
 - Sematic Role Labelling: SRL works by giving a semantic role to a sentence.
   like assigning roles to words that are arguments of a verb in the sentence
-  [@fa18-523-67-NLP-Art-4]".
+  [@fa18-523-67-NLP-Art-4].
 
 # Applications of NLP
 
