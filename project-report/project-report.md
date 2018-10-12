@@ -1,10 +1,10 @@
 
 ### Data analysis Of Yelp reviews (snapshot)
 ======
-### Work Breakdown:
+### Project members and work Breakdown:
 
-Prajakta Patil - fa18-523-65: Introduction, Literature review, Dataset
-Sahithya Sridhar- fa18-523-67: Abstract, Data processing, Analysis methods
+- Prajakta Patil - fa18-523-65: Introduction, Literature review, Dataset
+- Sahithya Sridhar- fa18-523-67: Abstract, Data processing, Analysis methods
 
 # Abstract:
 Yelp is a search service with website that hosts reviews for businesses, mainly
