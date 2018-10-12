@@ -87,11 +87,9 @@ Semantic Role Labelling etc made NLP a good topic for research.
   platforms on mixing of two languages. It categorizes statements into six groups
   based on emotions [@fa18-523-67-NLP-Art-3].
 
-- Sematic Role Labelling: 
-
-> "SRL works by giving a semantic role to a sentence. For example, in the PropBank
-  formalism, one assigns roles to words that are arguments
-  of a verb in the sentence [@fa18-523-67-NLP-Art-4]".
+- Sematic Role Labelling: SRL works by giving a semantic role to a sentence.
+  like assigning roles to words that are arguments of a verb in the sentence
+  [@fa18-523-67-NLP-Art-4]".
 
 # Applications of NLP
 
