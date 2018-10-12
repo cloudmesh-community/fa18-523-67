@@ -1,7 +1,7 @@
 
 ### Paper_snaphot
 
-This is the snapshot of the final paper that we will be writing. The final paper will contain few sample codes and installation tips.
+This is the snapshot of the final paper that we will be writing. The final paper will contain few sample codes and examples.
 
 ### Team Members:
 
