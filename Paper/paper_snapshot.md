@@ -33,11 +33,12 @@ separately [[@fa18-523-67-www-google-2].
 The text is manipulated for abstractions and indexed for automatic knowledge
 extraction. Producing text in a desirable format is one of the major research
 areas in NLP. structuring of large bodies of textual information to retrieve a
-information is classified under the Natural language text processing. "The central
+information is classified under the Natural language text processing.
+> "The central
 task for natural language text processing systems is the translation of
 potentially ambiguous natural language queries and texts into unambiguous
 internal representations on which matching, and retrieval can take place
-[@fa18-523-67-NLP-1]".
+[@fa18-523-67-NLP-1].
 
 Past research concentrating on natural language text processing systems has been
 reviewed by many including [@fa18-523-67-NLP-2]
@@ -100,10 +101,11 @@ Question Answering etc.
 - Text categorization: splitting the large volume of data into several categories.
   Example spam filters.
 
-- Spam Detection: "It works using text categorization and in recent times, various
+- Spam Detection: 
+> "It works using text categorization and in recent times, various
   machine learning techniques have been applied to text categorization or 
   Anti-Spam Filtering like Rule Learning, Naïve Bayes, Memory based Learning, 
-  Support vector, Decision Trees, Maximum Entropy Model [@fa18-523-67-NLP-Art]"
+  Support vector, Decision Trees, Maximum Entropy Model [@fa18-523-67-NLP-Art].
 
 # NLP is Yelp data review
 
@@ -138,7 +140,4 @@ Challenges faced in NLP text processing:
 -	Certain techniques are too expensive
 -	Not very reliable as of now.
 -	Speech/text processing [@fa18-523-67-www-google-4].
-
-
-
 
