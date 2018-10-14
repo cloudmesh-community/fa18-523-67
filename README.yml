@@ -4,24 +4,17 @@ owner:
   lastname: "Sridhar"
   hid: "fa18-523-67"
   community: "e534"
-
 technologies:
-
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/cuda.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/heroku.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/twister.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/spark-streaming.md
-  
 paper:
-
   - title: Natural language processing 
     url: https://github.com/cloudmesh-community/fa18-523-65/blob/master/paper/paper.md
-         
-    group: fa18-523-67 and fa18-523-60
-    
+    group: fa18-523-67 fa18-523-60
 project: 
-
   - title: Data analysis Of Yelp reviews
     report url:  https://github.com/cloudmesh-community/fa18-523-65/blob/master/project-report/report.md
-    group: fa18-523-65 , fa18-523-67
+    group: fa18-523-65 fa18-523-67
     code url: https://github.com/cloudmesh-community/fa18-523-65/blob/master/Project-report/code.md
