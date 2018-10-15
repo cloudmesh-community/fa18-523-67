@@ -42,5 +42,15 @@
 * Completed the "Intro to cloud computing" lecture
 
 # Week 10/5/18 - 10/11/18
+* Completed preliminary Technology summaries for the first 4 technologies assigned.
+* Worked on bibtex files for the technology summaries.
+* Wrote preliminary snapshot of the paper and project assignments.
+* Created the appropriate folder and file locations for the paper and project.
+* Peer reviewd the project and paper.
+
+# Week 10/12/18 - 10/18/18
+* Watching videos under "intro to data science"
+
+# Week 10/19/18 - 10/25/18
 
 * Yet to start
