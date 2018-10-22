@@ -50,7 +50,14 @@
 
 # Week 10/12/18 - 10/18/18
 * Watching videos under "intro to data science"
+* Updated readme.yml to contain semester and re-formated the paper and project section
+* Updated the paper folder to contain only a single entry.
+* Fixed technology summeries and checked if bib entries were working.
+* re-forked technologies to start making proper commits using command line.
 
 # Week 10/19/18 - 10/25/18
+* Watching videos under "intro to data science"
+
+# Week 10/26/18 - 11/01/18
 
 * Yet to start
