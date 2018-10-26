@@ -57,7 +57,10 @@
 
 # Week 10/19/18 - 10/25/18
 * Watching videos under "intro to data science"
+* Created new fork to cloudmesh technologies
+* Changed the summaries and Reference as per suggestion.
+* Working on the project paper and proposal.
 
 # Week 10/26/18 - 11/01/18
 
-* Yet to start
+*  Working on the project implementation.
