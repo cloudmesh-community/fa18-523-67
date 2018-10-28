@@ -14,7 +14,7 @@ paper:
   - title: Natural language processing
     keyword: Language
     url: https://github.com/cloudmesh-community/fa18-523-65/blob/master/paper/paper.md
-    group: fa18-523-67 fa18-523-60
+    group: fa18-523-60, fa18-523-67 
 project: 
   - title: Data analysis Of Yelp reviews
     keyword: yelp
