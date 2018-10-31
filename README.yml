@@ -17,7 +17,8 @@ paper:
     group: fa18-523-65 fa18-523-67 
 project: 
   - title: Data analysis Of Yelp reviews
-    keyword: yelp
-    report url:  https://github.com/cloudmesh-community/fa18-523-65/blob/master/project-report/report.md
+    keyword: Yelp
+    url: https://github.com/cloudmesh-community/fa18-523-65/blob/master/project-report/report.md
     group: fa18-523-65 fa18-523-67
-    
+    code: https://github.com/cloudmesh-community/fa18-523-65/blob/master/project-report/code.md
+
