@@ -5,6 +5,9 @@ owner:
   hid: "fa18-523-67"
   community: "i523"
   semester: fa18
+  
+profile:
+  -https://github.com/sahithyasridhar
 technologies:
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/cuda.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/heroku.md
