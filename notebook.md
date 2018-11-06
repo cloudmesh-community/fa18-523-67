@@ -63,4 +63,10 @@
 
 # Week 10/26/18 - 11/01/18
 
-*  Working on the project implementation.
+* Working on the project implementation.
+* Made changes to the technnology summeries according to the feedback given
+
+# Week 11/02/18 - 11/08/18
+
+* Watching Big Data Use Cases Survey videos
+* Working on the project implementation.
