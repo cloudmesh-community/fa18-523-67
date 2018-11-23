@@ -71,10 +71,15 @@
 * Watching Big Data Use Cases Survey videos
 * Working on the project implementation.
 
-# Week 11/09/18 -11/16/18
+# Week 11/09/18 -11/15/18
 
 * Updated the 2-paper paper
 * deployed data on Jupyter
 * analysed data and made visuals
 * implementing nlp techniques on the project data
+
+# Week 11/16/18 - 11/22/18
+
+* Updating the 2 page paper
+* working on project
 
