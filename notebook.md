@@ -83,3 +83,9 @@
 * Updating the 2 page paper
 * working on project
 
+# Week 11/23/18 - 11/30/18
+
+* created final project paper
+* working on the project code
+* finished watching Big Data Use Cases Survey videos
+* updating the project code in github
