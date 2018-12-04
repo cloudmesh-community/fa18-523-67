@@ -47,6 +47,7 @@
 * Wrote preliminary snapshot of the paper and project assignments.
 * Created the appropriate folder and file locations for the paper and project.
 * Peer reviewd the project and paper.
+* finished watching Radar videos.
 
 # Week 10/12/18 - 10/18/18
 * Watching videos under "intro to data science"
@@ -65,11 +66,13 @@
 
 * Working on the project implementation.
 * Made changes to the technnology summeries according to the feedback given
+* finished watching Health videos
 
 # Week 11/02/18 - 11/08/18
 
 * Watching Big Data Use Cases Survey videos
 * Working on the project implementation.
+* finished watching Sports video
 
 # Week 11/09/18 -11/15/18
 
@@ -77,15 +80,22 @@
 * deployed data on Jupyter
 * analysed data and made visuals
 * implementing nlp techniques on the project data
+* finished watching Sensor videos
 
 # Week 11/16/18 - 11/22/18
 
 * Updating the 2 page paper
 * working on project
+* finished watching Web Search video
 
-# Week 11/23/18 - 11/30/18
+# Week 11/23/18 - 11/29/18
 
 * created final project paper
 * working on the project code
 * finished watching Big Data Use Cases Survey videos
 * updating the project code in github
+
+# Week 11/30/18 - 12/07/18
+
+* finished watching Overview of Big Data videos
+* finished watching Lifestyle and e-Commerce
