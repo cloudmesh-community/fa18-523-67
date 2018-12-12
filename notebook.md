@@ -84,7 +84,7 @@
 
 # Week 11/16/18 - 11/22/18
 
-* Updating the 2 page paper
+* Finished and posted the 2 page paper
 * working on project
 * finished watching Web Search video
 
@@ -99,3 +99,4 @@
 
 * finished watching Overview of Big Data videos
 * finished watching Lifestyle and e-Commerce
+* Completed the final project and updated the code and the project report in Github
