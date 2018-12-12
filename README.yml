@@ -6,18 +6,22 @@ owner:
   Community: "i523"
   Semester: fa18
   Online: Yes 
+  
 profile:
   - url: https://github.com/sahithyasridhar
+  
 technologies:
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/cuda.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/heroku.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/twister.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/spark-streaming.md
+  
 paper:
   - title: Natural language processing
     keyword: Language
     url: https://github.com/cloudmesh-community/fa18-523-65/tree/master/paper/paper.md
     group: fa18-523-65 fa18-523-67
+    
 project: 
   - title: Data analysis Of Yelp reviews
     keyword: Yelp
